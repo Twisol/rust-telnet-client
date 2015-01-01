@@ -1,0 +1,11 @@
+[root]
+name = "rust-telnet-app"
+version = "0.0.1"
+dependencies = [
+ "rust-telnet 0.0.1",
+]
+
+[[package]]
+name = "rust-telnet"
+version = "0.0.1"
+
