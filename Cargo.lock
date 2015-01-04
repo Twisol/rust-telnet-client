@@ -2,10 +2,11 @@
 name = "rust-telnet-app"
 version = "0.0.1"
 dependencies = [
- "rust-telnet 0.0.1",
+ "rust-telnet 0.0.1 (git+https://github.com/Twisol/rust-telnet.git?rev=4bd8d154a319bd6c3e7789c679c57a65ea0c167b)",
 ]
 
 [[package]]
 name = "rust-telnet"
 version = "0.0.1"
+source = "git+https://github.com/Twisol/rust-telnet.git?rev=4bd8d154a319bd6c3e7789c679c57a65ea0c167b#4bd8d154a319bd6c3e7789c679c57a65ea0c167b"
 
