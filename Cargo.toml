@@ -1,9 +1,9 @@
 [package]
 
-name = "rust-telnet-app"
+name = "rust-telnet-client"
 version = "0.0.1"
 authors = ["Jonathan Castello <twisolar@gmail.com>"]
 
 [dependencies.rust-telnet]
 git = "https://github.com/Twisol/rust-telnet.git"
-rev = "4bd8d154a319bd6c3e7789c679c57a65ea0c167b"
+rev = "b1387c8cb4fff730f307727975c03cd933f8c3d3"
